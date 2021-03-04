@@ -1,0 +1,191 @@
+<Project>
+  <Name>MediaBazaar</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>MediaBazaarDiagram</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Person</Name>
+        <Access>Public</Access>
+        <Location left="750" top="396" />
+        <Size width="162" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">protected String name</Member>
+        <Member type="Field">protected int id</Member>
+        <Member type="Field">static int idSeeder</Member>
+        <Member type="Field">protected int age</Member>
+        <Member type="Field">protected Gender gender</Member>
+        <Member type="Field">protected double hourlyWage</Member>
+        <Member type="Field">protected String address</Member>
+        <Member type="Field">protected String phoneNumber</Member>
+        <Member type="Field">protected double hoursWorked</Member>
+        <Member type="Method">public String ToString()</Member>
+        <Member type="Method">public bool MakePromotion()</Member>
+        <Member type="Method">public void CelebrateBirthday()</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Manager</Name>
+        <Access>Public</Access>
+        <Location left="750" top="770" />
+        <Size width="162" height="126" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">protected string position</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Enum">
+        <Name>Gender</Name>
+        <Access>Public</Access>
+        <Location left="500" top="434" />
+        <Size width="162" height="114" />
+        <Collapsed>False</Collapsed>
+        <Value>MALE</Value>
+        <Value>FEMALE</Value>
+        <Value>OTHER</Value>
+      </Entity>
+      <Entity type="Class">
+        <Name>Administration</Name>
+        <Access>Public</Access>
+        <Location left="587" top="1104" />
+        <Size width="526" height="216" />
+        <Collapsed>False</Collapsed>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Product</Name>
+        <Access>Public</Access>
+        <Location left="56" top="1075" />
+        <Size width="403" height="376" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int id</Member>
+        <Member type="Field">static int idSeeder</Member>
+        <Member type="Field">string name</Member>
+        <Member type="Field">ProductCategory category</Member>
+        <Member type="Field">double price</Member>
+        <Member type="Field">string description</Member>
+        <Member type="Field">string distributor</Member>
+        <Member type="Field">string emailDistributor</Member>
+        <Member type="Constructor">public Product(string name, ProductCategory category, double price, string distributor, string emailDistributor)</Member>
+        <Member type="Constructor">public Product(string name, ProductCategory category, double price, string distributor, string emailDistributor, string description)</Member>
+        <Member type="Property">public int Id { get; }</Member>
+        <Member type="Property">public string Name { get; set; }</Member>
+        <Member type="Property">public ProductCategory category { get; set; }</Member>
+        <Member type="Property">public double Price { get; set; }</Member>
+        <Member type="Method">public Product GetProductById(int id)</Member>
+        <Member type="Method">public Product GetProductByName(string productName)</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Announcements</Name>
+        <Access>Public</Access>
+        <Location left="1236" top="1182" />
+        <Size width="162" height="122" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string text</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Enum">
+        <Name>ProductCategory</Name>
+        <Access>Public</Access>
+        <Location left="56" top="750" />
+        <Size width="162" height="197" />
+        <Collapsed>False</Collapsed>
+        <Value>LAPTOPS</Value>
+        <Value>SPEAKERS</Value>
+        <Value>GAMES</Value>
+        <Value>CONSOLES</Value>
+        <Value>HEADPHONES</Value>
+        <Value>CABLES</Value>
+        <Value>CHARGERS</Value>
+        <Value>ACCESSORIES</Value>
+      </Entity>
+      <Entity type="Class">
+        <Name>EmployeeManager</Name>
+        <Access>Public</Access>
+        <Location left="1086" top="570" />
+        <Size width="162" height="129" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Admin</Name>
+        <Access>Public</Access>
+        <Location left="1086" top="928" />
+        <Size width="162" height="129" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>InventoryManager</Name>
+        <Access>Public</Access>
+        <Location left="1086" top="743" />
+        <Size width="162" height="129" />
+        <Collapsed>False</Collapsed>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="0" second="2">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="1" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Association" first="3" second="5">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>announcements</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>managers</EndRole>
+        <EndMultiplicity>1..*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Dependency" first="4" second="6">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="7" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1061</X>
+          <Y>646</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>937</X>
+          <Y>821</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="9" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="8" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>937</X>
+          <Y>822</Y>
+        </BendPoint>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
