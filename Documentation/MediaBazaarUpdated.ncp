@@ -28,9 +28,10 @@
         <Name>Manager</Name>
         <Access>Public</Access>
         <Location left="750" top="770" />
-        <Size width="162" height="126" />
+        <Size width="176" height="128" />
         <Collapsed>False</Collapsed>
         <Member type="Field">protected string position</Member>
+        <Member type="Property">public position GetPosition { get; }</Member>
         <Member type="Method">public override string ToString()</Member>
         <Modifier>Abstract</Modifier>
       </Entity>
@@ -48,12 +49,16 @@
         <Name>Administration</Name>
         <Access>Public</Access>
         <Location left="587" top="1104" />
-        <Size width="526" height="216" />
+        <Size width="724" height="216" />
         <Collapsed>False</Collapsed>
+        <Member type="Field">private String name</Member>
+        <Member type="Constructor">public Administration(String name)</Member>
         <Member type="Method">public bool HireManager(Manager manager)</Member>
         <Member type="Method">public bool FireManager(Manager manager)</Member>
         <Member type="Method">public bool HireEmployee(Employee employee)</Member>
         <Member type="Method">public bool Fireemployee(Employee employee)</Member>
+        <Member type="Method">public bool AddProduct(Product product)</Member>
+        <Member type="Method">public bool RemoveProduct(Product product)</Member>
         <Modifier>None</Modifier>
       </Entity>
       <Entity type="Class">
@@ -84,7 +89,7 @@
       <Entity type="Class">
         <Name>Announcements</Name>
         <Access>Public</Access>
-        <Location left="1236" top="1182" />
+        <Location left="1445" top="1176" />
         <Size width="162" height="122" />
         <Collapsed>False</Collapsed>
         <Member type="Field">string text</Member>
@@ -110,8 +115,9 @@
         <Name>EmployeeManager</Name>
         <Access>Public</Access>
         <Location left="1086" top="570" />
-        <Size width="162" height="129" />
+        <Size width="725" height="129" />
         <Collapsed>False</Collapsed>
+        <Member type="Constructor">public EmployeeManager(String name, int age, Gender gender, double hourlyWage, String address, String phoneNumber, double hoursWorked)</Member>
         <Member type="Method">public override string ToString()</Member>
         <Modifier>None</Modifier>
       </Entity>
@@ -119,8 +125,9 @@
         <Name>Admin</Name>
         <Access>Public</Access>
         <Location left="1086" top="928" />
-        <Size width="162" height="129" />
+        <Size width="725" height="129" />
         <Collapsed>False</Collapsed>
+        <Member type="Constructor">public Admin(String name, int age, Gender gender, double hourlyWage, String address, String phoneNumber, double hoursWorked)</Member>
         <Member type="Method">public override string ToString()</Member>
         <Modifier>None</Modifier>
       </Entity>
@@ -128,8 +135,10 @@
         <Name>InventoryManager</Name>
         <Access>Public</Access>
         <Location left="1086" top="743" />
-        <Size width="162" height="129" />
+        <Size width="725" height="129" />
         <Collapsed>False</Collapsed>
+        <Member type="Constructor">public InventoryManager(String name, int age, Gender gender, double hourlyWage, String address, String phoneNumber, double hoursWorked)</Member>
+        <Member type="Method">public String ToString()</Member>
         <Modifier>None</Modifier>
       </Entity>
       <Entity type="Class">
@@ -144,6 +153,8 @@
     </Entities>
     <Relationships>
       <Relationship type="Dependency" first="0" second="2">
+        <Label>
+        </Label>
         <StartOrientation>Horizontal</StartOrientation>
         <EndOrientation>Horizontal</EndOrientation>
       </Relationship>
@@ -152,8 +163,6 @@
         <EndOrientation>Vertical</EndOrientation>
       </Relationship>
       <Relationship type="Association" first="3" second="5">
-        <Label>
-        </Label>
         <StartOrientation>Horizontal</StartOrientation>
         <EndOrientation>Horizontal</EndOrientation>
         <Direction>Unidirectional</Direction>
@@ -162,8 +171,6 @@
         <EndMultiplicity>*</EndMultiplicity>
       </Relationship>
       <Relationship type="Association" first="3" second="1">
-        <Label>
-        </Label>
         <StartOrientation>Vertical</StartOrientation>
         <EndOrientation>Vertical</EndOrientation>
         <Direction>Unidirectional</Direction>
@@ -172,6 +179,8 @@
         <EndMultiplicity>1..*</EndMultiplicity>
       </Relationship>
       <Relationship type="Dependency" first="4" second="6">
+        <Label>
+        </Label>
         <StartOrientation>Vertical</StartOrientation>
         <EndOrientation>Vertical</EndOrientation>
       </Relationship>
@@ -183,20 +192,24 @@
           <Y>646</Y>
         </BendPoint>
         <BendPoint relativeToStartShape="False">
-          <X>937</X>
+          <X>951</X>
           <Y>821</Y>
         </BendPoint>
       </Relationship>
       <Relationship type="Generalization" first="9" second="1">
         <StartOrientation>Horizontal</StartOrientation>
         <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>951</X>
+          <Y>821</Y>
+        </BendPoint>
       </Relationship>
       <Relationship type="Generalization" first="8" second="1">
         <StartOrientation>Horizontal</StartOrientation>
         <EndOrientation>Horizontal</EndOrientation>
         <BendPoint relativeToStartShape="False">
-          <X>937</X>
-          <Y>822</Y>
+          <X>952</X>
+          <Y>821</Y>
         </BendPoint>
       </Relationship>
       <Relationship type="Generalization" first="10" second="0">
@@ -208,12 +221,24 @@
         </BendPoint>
       </Relationship>
       <Relationship type="Association" first="3" second="10">
-        <Label>
-        </Label>
         <StartOrientation>Vertical</StartOrientation>
         <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>611</X>
+          <Y>1011</Y>
+        </BendPoint>
         <Direction>Unidirectional</Direction>
         <AssociationType>Association</AssociationType>
+        <EndRole>employees</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="4">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>products</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
       </Relationship>
     </Relationships>
   </ProjectItem>
