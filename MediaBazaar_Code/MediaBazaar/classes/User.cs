@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediaBazaar.classes
 {
-    class User
+    public class User
     {
         //instance variables
 
