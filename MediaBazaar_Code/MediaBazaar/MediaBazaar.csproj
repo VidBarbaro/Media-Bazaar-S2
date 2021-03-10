@@ -46,8 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\Admin.cs" />
     <Compile Include="classes\EmailFormatException.cs" />
+    <Compile Include="classes\EmployeeManager.cs" />
     <Compile Include="classes\Gender.cs" />
+    <Compile Include="classes\InventoryManager.cs" />
+    <Compile Include="classes\Manager.cs" />
+    <Compile Include="classes\Product.cs" />
+    <Compile Include="classes\ProductAdministration.cs" />
+    <Compile Include="classes\ProductCategory.cs" />
     <Compile Include="classes\User.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
