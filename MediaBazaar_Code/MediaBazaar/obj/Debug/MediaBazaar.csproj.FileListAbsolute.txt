@@ -1,0 +1,876 @@
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+D:\Software Engineering Semester 2\Main Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddAnnouncement.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazzar_Code\software-project-semester-2\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddAnnouncement.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Documents\Software S2\MEDIA BAZAAR PROJECT\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\antec\Downloads\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\vidba\Downloads\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\vidba\Downloads\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Pictures\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormManageEmployees.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\Ana\Desktop\MediaBazaar_Code (4) (1)\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormHome.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsInventory.resources
+C:\Users\EU\Desktop\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.StatisticsProba.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormHome.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsInventory.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormDepartments.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRestockRequests.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedulePerDepartment.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsCategory.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormEmployees.resources
+C:\Users\EU\Desktop\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsEmployee.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe.config
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Form1.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddProduct.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddShift.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormDepartments.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormEmployees.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormHome.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProduct.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveProduct.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveShift.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedule.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedulePerDepartment.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsCategory.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsEmployee.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsInventory.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateProduct.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateShift.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.LogIn.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRestockRequests.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.Properties.Resources.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.csproj.CopyComplete
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.exe
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.pdb
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddDepartment.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveDepartment.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateDepartment.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAssignEmployees.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchDepartment.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormFreeDaysRequest.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDepartments.resources
+C:\Users\EU\Desktop\Media Bazaar\MB C#\MediaBazaar_Code (4)\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDep.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddDepartment.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAssignEmployees.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormDepartments.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormEmployees.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormFreeDaysRequest.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormHome.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveDepartment.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedulePerDepartment.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchDepartment.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsCategory.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDep.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDepartments.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsEmployee.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsInventory.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateDepartment.resources
+C:\Users\EU\Desktop\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRestockRequests.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormProfile.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddDepartment.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAddEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormAssignEmployees.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormDepartments.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormEmployees.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormFreeDaysRequest.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormHome.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveDepartment.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRemoveEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSchedulePerDepartment.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchDepartment.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeById.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchEmployeeByName.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormSearchProductByName.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatistics.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsCategory.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDep.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsDepartments.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormStatisticsInventory.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateDepartment.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormUpdateEmployee.resources
+C:\Users\Ana\Documents\Software S2\Software_Project\MediaBazaar_Code\MediaBazaar\obj\Debug\MediaBazaar.forms.FormRestockRequests.resources
